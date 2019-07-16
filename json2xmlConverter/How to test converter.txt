@@ -1,0 +1,9 @@
+Node.js has to be installed.
+
+1. Rename your .json file into json.json, then put it in folder called "put your .json file here". (thereis one 
+   already for the test)
+2. Run your terminal (cmd , Node.js cmd, Visual Studio Code terminal...) in folder by pressing Shift + right click 
+   and select "Open command windows here" ("Open PowerShell window here" if installed) or just open cmd and go to 
+   "json2xml Converter" folder.
+3. Run json.js by typing in "node json.js".
+4. Your .json file is now converted in .xml, called "yourXmlFile.xml", located in main folder (json2xmlConverter).
